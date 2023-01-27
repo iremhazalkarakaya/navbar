@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #dbdbdb;
+  font-family: 'Roboto', sans-serif;
+}
+#social{
+  background-color:#a3a375 ;
+  color: white;
+  height: 55px;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  font-size: 18px;
+  text-align: center;
+  padding: 15px;
+  float: left;
+  letter-spacing: 1px;
+}
+span{
+  letter-spacing: 2.5px;
+}
+i{
+  float: right;
+  margin-right: 15px;
+}
+i:hover{
+  opacity: 0.8;
+  color: black;
+}
+
+
